@@ -1,0 +1,1 @@
+copy ..\src\TerminationMonitor\x64\Release\TerminationMonitor.exe .
